@@ -1,0 +1,6 @@
+{
+    "jscodehints.detectedExclusions": [
+        "/Users/mehanna/Downloads/ion2-FullApp_1.4/platforms/ios/build/emulator/ion2-FullApp.app/www/plugins/cordova-plugin-splashscreen/www/splashscreen.js",
+        "/Users/mehanna/Downloads/ion2-FullApp_1.4/plugins/ionic-plugin-keyboard/www/ios/keyboard.js"
+    ]
+}
