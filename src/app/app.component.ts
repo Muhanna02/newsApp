@@ -1,7 +1,7 @@
 import { Component, ViewChild } from '@angular/core';
 import { Platform, MenuController, Nav, App } from 'ionic-angular';
-import { SplashScreen } from '@ionic-native/splash-screen';
-import { StatusBar } from '@ionic-native/status-bar';
+//import { SplashScreen } from '@ionic-native/splash-screen';
+//import { StatusBar } from '@ionic-native/status-bar';
 
 import { TabsNavigationPage } from '../pages/tabs-navigation/tabs-navigation';
 import { FormsPage } from '../pages/forms/forms';
